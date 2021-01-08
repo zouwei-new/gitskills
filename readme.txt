@@ -5,5 +5,4 @@ first
 seconed 
 
 
-new branch
-it's bad.
+new branch is quick and simple
